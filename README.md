@@ -6,7 +6,7 @@
 #### Problem Statement : HELP NGO wants to find the countries which are in direst need of aid depending on the various social,economic and health factors.
 #### Approach : Used K-means Clustering algorithm to cluster the countries based on features like GDP, Income, Child Mortalitiy rate and health budget.
 #### Project Code : [Jupyter Notebook](https://github.com/Saurabhgill9/Help-International-Charity---Clustering-Countries-for-Fund)
-#### Inferences : Last 5 poorly performing countries from the cluster of countris with low economic and health factors were selected to provide the aid.
+#### Inferences : Last 5 poorly performing countries from the cluster of countries with low economic and health factors were selected to provide the aid.
 
 
 ## Project 2 : Lead Scoring Case Study 
